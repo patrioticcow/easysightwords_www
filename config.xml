@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.massinflux.easysightwords" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cordova.apache.org/ns/1.0 ">
+<widget id="com.massinflux.easysightwords" version="1.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cordova.apache.org/ns/1.0 ">
     <name>Easy Sightwords Pro</name>
     <description>Easy Sightwords Pro</description>
     <author email="admin@massinflux.com" href="https://massinflux.com">Massinflux</author>
@@ -88,7 +88,5 @@
     <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <plugin name="cordova-plugin-device" spec="^2.0.2" />
-    <plugin name="cordova-plugin-speechrecognition" spec="^1.2.0" />
-    <plugin name="cordova-plugin-media" spec="^5.0.2" />
     <engine name="android" spec="^7.1.1" />
 </widget>
